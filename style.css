@@ -1,0 +1,24 @@
+.item-1{
+    background-color: aqua;
+}
+.item-2{
+    background-color: blueviolet;
+}
+.item-3{
+    background-color:lightgreen ;
+}
+.item-4{
+    background-color: mediumorchid;
+
+}
+.item-5{
+    background-color:lime ;
+}
+.item-6{
+    background-color: purple;
+}
+.conteiner{
+    display:grid;
+    grid-template-columns: 200px 100px 300px;
+    grid-template-rows: 100px 150px ;
+}
